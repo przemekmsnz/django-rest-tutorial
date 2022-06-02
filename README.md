@@ -1,15 +1,26 @@
-# django-rest-tutorial
-Learning Django Rest Framework
+# Django Rest Tutorial
+
+Following these online tutorials
+
+https://www.django-rest-framework.org/tutorial/quickstart/
+
+https://www.django-rest-framework.org/tutorial/1-serialization/
+
+### To run the code follow these steps
 
 Setup Python virtual environment
-python3 -m venv env
-source env/bin/activate
 
-To run migrations
-python manage.py migrate
+`python3 -m venv env`
+`source env/bin/activate`
 
-To create superuser
-python manage.py createsuperuser --email admin@example.com --username admin
+Run migrations
 
-To run the app
-python manage.py runserver
+`python manage.py migrate`
+
+Create superuser
+
+`python manage.py createsuperuser --email admin@example.com --username admin`
+
+Run the app
+
+`python manage.py runserver`
