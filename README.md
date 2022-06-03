@@ -24,3 +24,19 @@ Create superuser
 Run the app
 
 `python manage.py runserver`
+
+### Useful links
+
+https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do
+
+https://stackoverflow.com/questions/57475793/django-rest-framework-serialization-tutorial-confused
+
+https://www.programiz.com/python-programming/list-vs-tuples
+
+https://www.geeksforgeeks.org/what-does-the-double-star-operator-mean-in-python/#:~:text=Double%20Star%20or%20(**),also%20known%20as%20Power%20Operator.
+
+### Useful commands
+
+`python manage.py makemigrations snippets`
+
+`python manage.py migrate snippets`
